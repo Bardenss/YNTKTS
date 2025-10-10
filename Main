@@ -29,7 +29,7 @@ local routes = {}
 -- ROUTE EXAMPLE (isi CFrame)
 -- ============================================================
 -- Tinggi default waktu record
-local DEFAULT_HEIGHT = 2.900038719177246
+local DEFAULT_HEIGHT = 4.947289
 
 -- Ambil tinggi avatar sekarang
 local function getCurrentHeight()
